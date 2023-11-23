@@ -1,0 +1,24 @@
+.header {
+color: rgb(60, 47, 236);
+}
+table{
+    border: 3px rgb(174, 0, 255) solid; 
+}
+body{
+    background-image: url(images/back.jpg);
+    background-size: 100% 100%;
+}
+td {
+    border: 3px rgb(174, 0, 255) solid;
+    height: 80px;
+}
+li {
+    color: rgb(105, 4, 151);
+}
+.box{
+font-weight: 900;
+    color:rgb(6, 109, 6)
+}
+.footer{
+    color: rgb(96, 105, 112);
+}
