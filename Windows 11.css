@@ -1,0 +1,13 @@
+body{
+    background-image: url(images/back.jpg);
+    background-size: 100% ;
+}
+.header {
+    color: rgb(60, 47, 236);
+    }
+    li {
+        color: rgb(105, 4, 151);
+    }
+    .footer{
+        color: rgb(96, 105, 112);
+    }
