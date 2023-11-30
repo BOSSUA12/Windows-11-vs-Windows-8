@@ -22,3 +22,7 @@ font-weight: 900;
 .footer{
     color: rgb(96, 105, 112);
 }
+
+ol, li,td,tr,table{
+    vertical-align: top;
+}
