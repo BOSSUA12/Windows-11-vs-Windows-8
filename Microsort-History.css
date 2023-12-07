@@ -1,0 +1,20 @@
+body {
+    background-image: url(images/back.jpg);
+    background-size: 160%;
+}
+
+.header {
+    color: rgb(60, 47, 236);
+    font-family: cursive;
+}
+.content{
+    color: rgb(113, 43, 226);
+    font-family: cursive;
+}
+
+.footer {
+    color: rgb(96, 105, 112);
+}
+.java{
+    color: rgb(85, 64, 206);
+}

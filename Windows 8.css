@@ -9,5 +9,14 @@ body{
         color: rgb(105, 4, 151);
     }
     .footer{
+        background-color: rgba(0, 255, 255, 0);
         color: rgb(96, 105, 112);
+    }
+    .header, .footer{
+        min-height: 5vh;
+    }
+    
+    .content{
+        min-height: 90vh;
+       
     }
