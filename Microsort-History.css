@@ -18,3 +18,10 @@ body {
 .java{
     color: rgb(85, 64, 206);
 }
+table{
+    border: 3px rgb(174, 0, 255) solid; 
+}
+td {
+    border: 3px rgb(174, 0, 255) solid;
+    height: 80px;
+}
